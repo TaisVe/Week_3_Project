@@ -2,6 +2,8 @@
 
 Project Documentation for Taisgaly Vélez &amp; Daniela Rivera
 
+[Check Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+
 ## README file with the following structure:
 
 Title of the project
