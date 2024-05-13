@@ -2,7 +2,7 @@
 
 Project Documentation for Taisgaly Vélez &amp; Daniela Rivera
 
-##README file with the following structure:
+## README file with the following structure:
 
 Title of the project
 Introduction to your project.
