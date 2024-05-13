@@ -2,6 +2,8 @@
 
 Project Documentation for Taisgaly Vélez &amp; Daniela Rivera
 
+[Kaggle Wine_Review_Data](https://www.kaggle.com/datasets/zynicide/wine-reviews/data?select=winemag-data-130k-v2.csv)
+
 [Check Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ## README file with the following structure:
