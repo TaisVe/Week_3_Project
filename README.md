@@ -16,3 +16,22 @@ Further questions.
 Links to data sources and Trello.
 
 [Link to presentation](Insert URL)
+
+
+## Deliverables
+
+You must submit the following deliverables in order for the project to be deemed complete:
+
+1. A new repository with the name data-wrangling-project on your GitHub account.
+2. A working code that meets all technical requirements, built by you.
+3. At least 1 Jupyter notebook is required
+4. Include your functions in .py files
+5. Additional needed files for your work
+6. A README with the completed project documentation.
+7. The URL of the slides for your project presentation.
+8. Presentation: When presenting your work, there are many important factors to consider, such as the content of your presentation and the way you deliver it.
+   Remember to allow time to rehearse the presentation beforehand.
+   See “Presentation” section below for guidelines.
+9. Paste your own repository’s link in the Student Portal Project Activity.
+   Note: Each student should have their own repository to submit.
+10. Links to the data you are using (sources) and your Kanban board (Trello) in the README.
