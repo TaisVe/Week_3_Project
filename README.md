@@ -4,7 +4,7 @@ Project Documentation for Taisgaly Vélez &amp; Daniela Rivera
 
 [Kaggle Wine_Review_Data](https://www.kaggle.com/datasets/zynicide/wine-reviews/data?select=winemag-data-130k-v2.csv)
 
-[Kaggle Red Wine Vivino](https://www.kaggle.com/datasets/nikitatkachenko/vivinoredwine)
+[Kaggle My Vivino](https://www.kaggle.com/code/atabekabduakimov/my-vivino/input))
 
 [Kaggle Alcohol Consumption](https://www.kaggle.com/datasets/mysarahmadbhat/alcohol-consumption)
 
