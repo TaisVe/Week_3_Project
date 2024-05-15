@@ -12,8 +12,6 @@ Project Documentation for Taisgaly Vélez &amp; Daniela Rivera
 
 [Del Barril Vino PPT](https://docs.google.com/presentation/d/1ZH7R2Tw5t50jfIuhUUlLgipGgpBX1qEi/edit#slide=id.p1)
 
-[Check Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-
 ## README file with the following structure:
 
 Title of the project
@@ -38,7 +36,7 @@ You must submit the following deliverables in order for the project to be deemed
 4. Include your functions in .py files
 5. Additional needed files for your work
 6. A README with the completed project documentation.
-7. The URL of the slides for your project presentation.
+#### DONE The URL of the slides for your project presentation.
 8. Presentation: When presenting your work, there are many important factors to consider, such as the content of your presentation and the way you deliver it.
    Remember to allow time to rehearse the presentation beforehand.
    See “Presentation” section below for guidelines.
