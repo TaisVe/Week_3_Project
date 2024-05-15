@@ -8,6 +8,8 @@ Project Documentation for Taisgaly Vélez &amp; Daniela Rivera
 
 [Kaggle Alcohol Consumption](https://www.kaggle.com/datasets/mysarahmadbhat/alcohol-consumption)
 
+[Trello Page](https://trello.com/b/hsTHufe9/ihproject1)
+
 [Check Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ## README file with the following structure:
