@@ -10,6 +10,8 @@ Project Documentation for Taisgaly Vélez &amp; Daniela Rivera
 
 [Trello Page](https://trello.com/b/hsTHufe9/ihproject1)
 
+[Del Barril Vino PPT](https://docs.google.com/presentation/d/1ZH7R2Tw5t50jfIuhUUlLgipGgpBX1qEi/edit#slide=id.p1)
+
 [Check Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ## README file with the following structure:
@@ -30,7 +32,7 @@ Links to data sources and Trello.
 
 You must submit the following deliverables in order for the project to be deemed complete:
 
-1. A new repository with the name data-wrangling-project on your GitHub account.
+#### DONE A new repository with the name data-wrangling-project on your GitHub account.
 2. A working code that meets all technical requirements, built by you.
 3. At least 1 Jupyter notebook is required
 4. Include your functions in .py files
