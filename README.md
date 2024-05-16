@@ -131,25 +131,33 @@ From the alcohol consumption dataset:
 
 #### Wine Reviews by Sommeliers
    > Both the average point given to wines and the median are 88
+   
     - Most wines received between 86 and 91 points, indicating a relatively high overall quality of wines in the dataset.
 
    > The average price for a bottle of wine in the dataset is $35.36. Additionally, the standard deviation is high (41.02), indicating a wide dispersion of prices around the mean.
-    - The range for prices was from $4 to $3,300 
-    - We believe the pressence of outliers inlfluenced the values for the mean and standard deviation
+
+      - The range for prices was from $4 to $3,300 
+
+      - We believe the pressence of outliers inlfluenced the values for the mean and standard deviation
 
    > We found the points given to the most expensive wine and the cheapest
-    - The most expensive wine got 88 points while the cheapest wines averaged at 84
+
+      - The most expensive wine got 88 points while the cheapest wines averaged at 84
 
 #### Wine Reviews by Consumers
    > The average rating given to wines is 3.86 (similar to the median 3.9)
-    - Most wines received ratings between 3.8 and 4.1, indicating a relatively high overall quality of wines
+
+      - Most wines received ratings between 3.8 and 4.1, indicating a relatively high overall quality of wines
 
    > The average price for a bottle of wine in the dataset is $33.02 while the median is $15.95. Additionally, the standard deviation is high (70.90), indicating a wide dispersion of prices around the mean.
-    - The range for prices was from $3.15 to $3,410.79
-    - These results are likely due to the pressence of various outliers in the dataset
+
+      - The range for prices was from $3.15 to $3,410.79
+    
+      - These results are likely due to the pressence of various outliers in the dataset
 
    > We found the ratings given to the most expensive wine and the cheapest
-    - The most expensive wine got a 4.7 rating while the cheapest wines got a 3.8 and 4.2
+
+      - The most expensive wine got a 4.7 rating while the cheapest wines got a 3.8 and 4.2
 
 #### Correlation between the Ratings and Points
    > An R-squared value of 0.203 indicates a weak to moderate relationship between professional points and consumer ratings.
