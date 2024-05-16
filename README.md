@@ -132,7 +132,7 @@ From the alcohol consumption dataset:
 #### Wine Reviews by Sommeliers
    > Both the average point given to wines and the median are 88
    
-    - Most wines received between 86 and 91 points, indicating a relatively high overall quality of wines in the dataset.
+      - Most wines received between 86 and 91 points, indicating a relatively high overall quality of wines in the dataset.
 
    > The average price for a bottle of wine in the dataset is $35.36. Additionally, the standard deviation is high (41.02), indicating a wide dispersion of prices around the mean.
 
