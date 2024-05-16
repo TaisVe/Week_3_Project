@@ -132,7 +132,7 @@ From the alcohol consumption dataset:
 #### Wine Reviews by Sommeliers
    > Both the average point given to wines and the median are 88
    
-      - Most wines received between 86 and 91 points, indicating a relatively high overall quality of wines in the dataset.
+      - Most wines received between 86 and 91 points
 
    > The average price for a bottle of wine in the dataset is $35.36. Additionally, the standard deviation is high (41.02), indicating a wide dispersion of prices around the mean.
 
@@ -160,7 +160,7 @@ From the alcohol consumption dataset:
       - The most expensive wine got a 4.7 rating while the cheapest wines got a 3.8 and 4.2
 
 #### Correlation between the Ratings and Points
-   > An R-squared value of 0.203 indicates a weak to moderate relationship between professional points and consumer ratings.
+   > An R-squared value of 0.203 indicates a weak relationship between professional points and consumer ratings.
 
    > During our evaluation, we observed that the same bottle of wine from the Vivino dataset was used to compare different bottles from the Sommeliers' dataset. This makes our findings inconclusive because we cannot accurately identify which bottles truly match. While the sommeliers provided very specific titles for the wines, consumers often used only the first name on the label.
 
@@ -182,4 +182,4 @@ From the alcohol consumption dataset:
 
 [Trello Page](https://trello.com/b/hsTHufe9/ihproject1)
 
-## THANK YOU for Reading till THE END!
+## THANK YOU for Reading until THE END!
