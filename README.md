@@ -53,22 +53,22 @@ From the alcohol consumption dataset:
 ## Methodology
 
 ### Data Cleaning
--Verified uniformity of column names (lowercase and underscores if necessary)
--Created new columns for better comparison of the two datasets
-   -Added the year of wine to first dataset; extracted from title column
-   -Added the variety to the second dataset; extracted from the name column
--Checked for duplicated bottles of wine, not necessarily duplicated rows
--Checked for null values
+- Verified uniformity of column names (lowercase and underscores if necessary)
+- Created new columns for better comparison of the two datasets
+   - Added the year of wine to first dataset; extracted from title column
+   - Added the variety to the second dataset; extracted from the name column
+- Checked for duplicated bottles of wine, not necessarily duplicated rows
+- Checked for null values
 
 ### Data Transformation
--Combined 4 datasets divided by type of variety (red, white, rosé and sparkling) from Vivino into one main dataset
--After analyzing the two datasets seperately, we merged them by winery, variety, year and country
+- Combined 4 datasets divided by type of variety (red, white, rosé and sparkling) from Vivino into one main dataset
+- After analyzing the two datasets seperately, we merged them by winery, variety, year and country
 
 ### Data Analysis
--Used descriptive statistics to understand the central tendencies and dispersion in each dataset
-   -Identify the top values for categorical columns
-   -Get the average and standard deviation for numerical columns
--Compared the points and ratings in the merged data to identify any correlation
+- Used descriptive statistics to understand the central tendencies and dispersion in each dataset
+   - Identify the top values for categorical columns
+   - Get the average and standard deviation for numerical columns
+- Compared the points and ratings in the merged data to identify any correlation
 
 ## Conclusions
 
