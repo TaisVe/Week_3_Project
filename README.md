@@ -75,7 +75,7 @@ From the alcohol consumption dataset:
 #### Top Contries & Varieties with Most Reviews
 
 ##### Reviews from Sommeliers 
-|Rank|country|count|
+|Rank|Country|Count|               
 |----|-------|-----|
 |1|US|50233|
 |2|France|19970|
@@ -88,35 +88,74 @@ From the alcohol consumption dataset:
 |9|Australia|2183|
 |10|Germany|1990|
 
+|Rank|Variety|Count|               
+|----|-------|-----|
+|1|Pinot Noir|12239|
+|2|Chardonnay|10810|
+|3|Cabernet Sauvignon|8824|
+|4|Red Blend|8224|
+|5|Bordeaux-style Red Blend|6445|
+|6|Riesling|4759|
+|7|Sauvignon Blanc|4566|
+|8|Syrah|3822|
+|9|Rosé|3215|
+|10|Merlot|2889|
+
+##### Reviews from Consumers
+
+|Rank|Country|Count|               
+|----|-------|-----|
+|1|Italy|3913|
+|2|France|3428|
+|3|Spain|1532|
+|4|Germany|1228|
+|5|South Africa|846|
+|6|United States|526|
+|7|Austria|491|
+|8|Chile|431|
+|9|Portugal|336|
+|10|Australia|310|
+
+|Rank|Variety|Count|               
+|----|-------|-----|
+|1|Riesling|690|
+|2|Chardonnay|555|
+|3|Cabernet Sauvignon|547|
+|4|Sauvignon Blanc|354|
+|5|Champagne|307|
+|6|Pinot Noir|279|
+|7|Rosso|265|
+|8|Chianti|227|
+|9|Titno|197|
+|10|Syrah|192|
+
 #### Wine Reviews by Sommeliers
    >Both the average point given to wines and the median are 88
     -Most wines received between 86 and 91 points, indicating a relatively high overall quality of wines in the dataset.
-
    >The average price for a bottle of wine in the dataset is $35.36. Additionally, the standard deviation is high (41.02), indicating a wide dispersion of prices around the mean.
     -The range for prices was from $4 to $3,300 
     -We believe the pressence of outliers inlfluenced the values for the mean and standard deviation
-
    >We found the points given to the most expensive wine and the cheapest
     -The most expensive wine got 88 points while the cheapest wines averaged at 84
 
 #### Wine Reviews by Consumers
    >The average rating given to wines is 3.86 (similar to the median 3.9)
     -Most wines received ratings between 3.8 and 4.1, indicating a relatively high overall quality of wines
-
    >The average price for a bottle of wine in the dataset is $33.02 while the median is $15.95. Additionally, the standard deviation is high (70.90), indicating a wide dispersion of prices around the mean.
     -The range for prices was from $3.15 to $3,410.79
     -These results are likely due to the pressence of various outliers in the dataset
-
    >We found the ratings given to the most expensive wine and the cheapest
     -The most expensive wine got a 4.7 rating while the cheapest wines got a 3.8 and 4.2
 
 #### Correlation between the Ratings and Points
-
+   >An R-squared value of 0.203 indicates a weak to moderate relationship between professional points and consumer ratings.
+   >During our evaluation, we observed that the same bottle of wine from the Vivino dataset was used to compare different bottles from the Sommeliers' dataset. This makes our findings inconclusive because we cannot accurately identify which bottles truly match. While the sommeliers provided very specific titles for the wines, consumers often used only the first name on the label.
+   >Ultimately, our merged data is not reliable enough to draw definitive conclusions.
 
 ## Further Questions
 
-Further analysis we would like to do
-- What are the most common flavor profiles/descriptions for the top grapes
+#### Further analysis we would like to do
+- What are the most common flavor profiles/descriptions for each variety being reviewed by the sommeliers?
 - Analyze the quality of the top grapes (acidity, sweetness, pH, etc.)
 - Look for reviews that have more bottles of wine in common
    - Possible solution: web scrape Vivino to get more wine options
@@ -129,25 +168,4 @@ Further analysis we would like to do
 
 [Trello Page](https://trello.com/b/hsTHufe9/ihproject1)
 
-
-
---------------------------------------------------------------------------------------------------------------------
-
-
-## Deliverables
-
-You must submit the following deliverables in order for the project to be deemed complete:
-
-#### DONE A new repository with the name data-wrangling-project on your GitHub account.
-#### DONE A working code that meets all technical requirements, built by you.
-#### DONE At least 1 Jupyter notebook is required
-#### DONE Include your functions in .py files
-#### DONE Additional needed files for your work
-6. A README with the completed project documentation.
-#### DONE The URL of the slides for your project presentation.
-8. Presentation: When presenting your work, there are many important factors to consider, such as the content of your presentation and the way you deliver it.
-   Remember to allow time to rehearse the presentation beforehand.
-   See “Presentation” section below for guidelines.
-9. Paste your own repository’s link in the Student Portal Project Activity.
-   Note: Each student should have their own repository to submit.
-#### DONE Links to the data you are using (sources) and your Kanban board (Trello) in the README.
+## THANK YOU for Reading till THE END!
