@@ -174,6 +174,14 @@ From the alcohol consumption dataset:
 - Look for reviews that have more bottles of wine in common
    - Possible solution: web scrape Vivino to get more wine options
 
+## CSV Files
+
+You can download the dataset used in this project from the following link:
+[Sommelier Data](wine_data.csv)
+[Vivino Data](vivino_data.csv)
+[Merged Data](merged_data.csv)
+[Alcohol Consumption](alcohol_data.csv)
+
 ## Presentation URL
 
 [Del Barril Vino PPT](https://docs.google.com/presentation/d/1ZH7R2Tw5t50jfIuhUUlLgipGgpBX1qEi/edit#slide=id.p1)
