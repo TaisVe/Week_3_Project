@@ -52,11 +52,66 @@ From the alcohol consumption dataset:
 
 ## Methodology
 
-Describe the methodology you are using, explaining the steps upi took for data cleaning, analysis, etc.
+### Data Cleaning
+-Verified uniformity of column names (lowercase and underscores if necessary)
+-Created new columns for better comparison of the two datasets
+   -Added the year of wine to first dataset; extracted from title column
+   -Added the variety to the second dataset; extracted from the name column
+-Checked for duplicated bottles of wine, not necessarily duplicated rows
+-Checked for null values
+
+### Data Transformation
+-Combined 4 datasets divided by type of variety (red, white, rosé and sparkling) from Vivino into one main dataset
+-After analyzing the two datasets seperately, we merged them by winery, variety, year and country
+
+### Data Analysis
+-Used descriptive statistics to understand the central tendencies and dispersion in each dataset
+   -Identify the top values for categorical columns
+   -Get the average and standard deviation for numerical columns
+-Compared the points and ratings in the merged data to identify any correlation
 
 ## Conclusions
 
-What did we find after cleaning and analyzing the data?
+#### Top Contries & Varieties with Most Reviews
+
+##### Reviews from Sommeliers 
+|Rank|country|count|
+|----|-------|-----|
+|1|US|50233|
+|2|France|19970|
+|3|Italy|17812|
+|4|Spain|6026|
+|5|Portugal|5222|
+|6|Chile|4179|
+|7|Argentina|3543|
+|8|Austria|3024|
+|9|Australia|2183|
+|10|Germany|1990|
+
+#### Wine Reviews by Sommeliers
+   >Both the average point given to wines and the median are 88
+    -Most wines received between 86 and 91 points, indicating a relatively high overall quality of wines in the dataset.
+
+   >The average price for a bottle of wine in the dataset is $35.36. Additionally, the standard deviation is high (41.02), indicating a wide dispersion of prices around the mean.
+    -The range for prices was from $4 to $3,300 
+    -We believe the pressence of outliers inlfluenced the values for the mean and standard deviation
+
+   >We found the points given to the most expensive wine and the cheapest
+    -The most expensive wine got 88 points while the cheapest wines averaged at 84
+
+#### Wine Reviews by Consumers
+   >The average rating given to wines is 3.86 (similar to the median 3.9)
+    -Most wines received ratings between 3.8 and 4.1, indicating a relatively high overall quality of wines
+
+   >The average price for a bottle of wine in the dataset is $33.02 while the median is $15.95. Additionally, the standard deviation is high (70.90), indicating a wide dispersion of prices around the mean.
+    -The range for prices was from $3.15 to $3,410.79
+    -These results are likely due to the pressence of various outliers in the dataset
+
+   >We found the ratings given to the most expensive wine and the cheapest
+    -The most expensive wine got a 4.7 rating while the cheapest wines got a 3.8 and 4.2
+
+#### Correlation between the Ratings and Points
+
 
 ## Further Questions
 
