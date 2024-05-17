@@ -176,7 +176,7 @@ From the alcohol consumption dataset:
 
 ## CSV Files
 
-You can download the dataset used in this project from the following link:
+You can download the dataset prepared in this project from the following link:
 > [Sommelier Data](wine_data.csv.zip)
 > [Vivino Data](vivino_data.csv)
 > [Merged Data](merged_data.csv)
